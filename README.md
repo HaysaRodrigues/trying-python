@@ -7,5 +7,7 @@ The book is awesome! But it worth to remember that this repository it's just abo
 
 Let's see what to find in each part of this repository:
 
-1. [introduction](https://github.com/HaysaRodrigues/trying-python/tree/master/introduction):
+1. [applications](https://github.com/HaysaRodrigues/trying-python/tree/master/applications): samples of applications made in python, all done following the book Automate Boring Stuff Python Programming mentioned before.
+
+2. [introduction](https://github.com/HaysaRodrigues/trying-python/tree/master/introduction):
 Basic concepts of python, Hello World, Math Operations, manipulating values.
