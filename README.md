@@ -1,4 +1,4 @@
-# Trying Python
+# Trying Python :snake:
 
 This repository has the intent of keep all my rotine of studies about Python. 
 
