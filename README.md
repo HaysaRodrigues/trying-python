@@ -1,6 +1,6 @@
 # Trying Python :snake:
 
-This repository has the intent of keep all my rotine of studies about Python. 
+This repository has the intent of keep all my routine of studies about Python. 
 
 To do this I am following the instructions of the book [Automate Boring Stuff Python Programming](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994) by Al Sweigart.
 The book is awesome! But it worth to remember that this repository it's just about the way I have been arranging my studies based on book's samples.
