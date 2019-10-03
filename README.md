@@ -37,7 +37,7 @@ Basic concepts of python, Hello World, Math Operations, manipulating values.
 
 #### Variables
 
-```
+```python
 counter = 100          # An integer assignment
 miles   = 1000.0       # A floating point
 name    = "John"       # A string
@@ -52,7 +52,7 @@ name    = "John"       # A string
 
 ##### String
 
-```
+```python
 str = 'Hello World!'
 
 print str          # Prints complete string
@@ -70,7 +70,7 @@ print str + "TEST" # Prints concatenated string
 
 * The plus sign (+) is the list concatenation and the asterisk is the repetition operator (*).
 
-```
+```python
 #!/usr/bin/python
 
 list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]
@@ -91,7 +91,7 @@ print list + tinylist # Prints concatenated lists
 
 * So the main difference between a list and a tuple is that list are enclosed by brackets [] and their elements and size can be changed, while tuples are enclosed in parentheses () and cannot be updated. Also, tuples can be also read-only.
 
-```
+```python
 
 #!/usr/bin/python
 
@@ -113,7 +113,7 @@ print tuple + tinytuple # Prints concatenated lists
 
 * Dictionaries are enclosed by curly braces ({ }) and values can be assigned and accessed using square braces ([]).
 
-```
+```python
 #!/usr/bin/python
 
 dict = {}
@@ -128,6 +128,20 @@ print dict[2]           # Prints value for 2 key
 print tinydict          # Prints complete dictionary
 print tinydict.keys()   # Prints all the keys
 print tinydict.values() # Prints all the values
+
+```
+
+#### Data Type Convertion
+
+* In data science, you will often need to change the type of your data. 
+
+* The data type defines the operations that can be done on the data and the structure in which you want the data to be stored.
+
+* you can use the ```type()``` to discover which type is your data. 
+
+```python
+total = price_cake + price_cookie
+print("The total is: " + total  + "$")
 
 ```
 
